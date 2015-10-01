@@ -1,0 +1,46 @@
+<resources>
+
+    <string name="app_name">Elibrary</string>
+
+    <string name="tit_inicio">Bienvenido a E-Library</string>
+    <string name="tit_categoria">Categorias</string>
+    
+
+    <string name="str_vacio"></string>
+
+    <string name="btnGuardar">Guardar</string>
+	<string name="btnGuardarEdit">Guardar Modif.</string>
+    <string name="btnEliminar">Eliminar</string>
+
+    <string name="txtDescargas">"Descargas"</string>
+
+    <string name="txtTitulo">Título</string>
+
+    <string name="txtDescripcion">"Descripción: "</string>
+
+    <string name="txtEditorial">"Editorial: "</string>
+
+    <string name="txtCategoria">"Categoría: "</string>
+
+    <string name="txtAutor">"Autor: "</string>
+
+    <string name="contenAutor">Author</string>
+
+    <string name="contenDesc">Aqui va la descripcion del libro, sin saber  q mas escribir, queda!</string>
+
+    <string name="txtEnlace">"Enlace: "</string>
+
+    <string name="contenLink">"http://129.168.1.237:8080/elibrary/"</string>
+
+    <string name="txtPuntuacion">Puntuación ()</string>
+    
+    <string name="menuLibros">E-library</string>
+    
+    <string name="menuCategoria">Categorias</string>
+    <string name="menuCategoriaNuevo">Nueva Categoria</string>
+    
+    <string name="txtId">ID</string>
+    
+    <string name="txtNomCat">Nombre Categoria</string>
+
+</resources>
